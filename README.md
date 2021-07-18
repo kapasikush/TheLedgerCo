@@ -9,6 +9,12 @@ The amount should be paid back monthly in the form of EMIs. The borrowers can al
 deducted from the total amount (A) which can reduce the number of EMIs. This doesn’t affect the EMI amount unless the remaining total amount is less than the EMI. All transactions happen through The Ledger Co.
 You need to design a system to find out how much amount a user has paid the bank and how many EMIs are remaining .
 
+
+Bonus Points
+-------
+The Solution also contains basic unit tests for the files.
+
+
 Steps to Test
 ----
 
